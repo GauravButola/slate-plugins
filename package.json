@@ -1,6 +1,7 @@
 {
   "private": true,
   "license": "MIT",
+  "version": "9.9.9",
   "workspaces": [
     "packages/core",
     "packages/slate-plugins"
